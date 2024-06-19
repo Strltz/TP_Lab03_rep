@@ -1,4 +1,4 @@
-Added print function:
+Added print functions:
 
 1) print in console
     
